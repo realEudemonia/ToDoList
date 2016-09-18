@@ -30,4 +30,4 @@ $("input[type = text]").keypress(function () {
     $("ul").append("<li><span>X</span>" + todoText + "</li>")
   }
 });
-//boom
+
